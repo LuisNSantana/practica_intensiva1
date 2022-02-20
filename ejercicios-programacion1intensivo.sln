@@ -1,0 +1,59 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicios-programacion1intensivo", "ejercicios-programacion1intensivo\ejercicios-programacion1intensivo.csproj", "{7523790C-7F46-4E56-8AA3-6715588411AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora", "calculadora\calculadora.csproj", "{065E6C3C-9312-4931-8B96-4643437E3F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grados", "grados\grados.csproj", "{4147D0DD-5F59-4C5D-87C5-B169CD946F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "media", "media\media.csproj", "{41148409-F860-4C5A-AAF4-52697125165F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minutos", "minutos\minutos.csproj", "{69F4C8A3-14C8-4CD9-A25A-8B700B5788F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alumno", "alumno\alumno.csproj", "{1320190A-5253-4A52-AD77-318DC920A57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sueldo", "sueldo\sueldo.csproj", "{28E5B824-70B8-405A-8AC0-FD228E61EC2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tienda", "tienda\tienda.csproj", "{2CFDAC10-6B6E-4ECA-989A-3F9AF6636AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7523790C-7F46-4E56-8AA3-6715588411AC}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7523790C-7F46-4E56-8AA3-6715588411AC}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7523790C-7F46-4E56-8AA3-6715588411AC}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7523790C-7F46-4E56-8AA3-6715588411AC}.Release|anycpu.Build.0 = Release|anycpu
+		{065E6C3C-9312-4931-8B96-4643437E3F70}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{065E6C3C-9312-4931-8B96-4643437E3F70}.Debug|anycpu.Build.0 = Debug|anycpu
+		{065E6C3C-9312-4931-8B96-4643437E3F70}.Release|anycpu.ActiveCfg = Release|anycpu
+		{065E6C3C-9312-4931-8B96-4643437E3F70}.Release|anycpu.Build.0 = Release|anycpu
+		{4147D0DD-5F59-4C5D-87C5-B169CD946F07}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4147D0DD-5F59-4C5D-87C5-B169CD946F07}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4147D0DD-5F59-4C5D-87C5-B169CD946F07}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4147D0DD-5F59-4C5D-87C5-B169CD946F07}.Release|anycpu.Build.0 = Release|anycpu
+		{41148409-F860-4C5A-AAF4-52697125165F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{41148409-F860-4C5A-AAF4-52697125165F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{41148409-F860-4C5A-AAF4-52697125165F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{41148409-F860-4C5A-AAF4-52697125165F}.Release|anycpu.Build.0 = Release|anycpu
+		{69F4C8A3-14C8-4CD9-A25A-8B700B5788F3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{69F4C8A3-14C8-4CD9-A25A-8B700B5788F3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{69F4C8A3-14C8-4CD9-A25A-8B700B5788F3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{69F4C8A3-14C8-4CD9-A25A-8B700B5788F3}.Release|anycpu.Build.0 = Release|anycpu
+		{1320190A-5253-4A52-AD77-318DC920A57D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1320190A-5253-4A52-AD77-318DC920A57D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1320190A-5253-4A52-AD77-318DC920A57D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1320190A-5253-4A52-AD77-318DC920A57D}.Release|anycpu.Build.0 = Release|anycpu
+		{28E5B824-70B8-405A-8AC0-FD228E61EC2B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{28E5B824-70B8-405A-8AC0-FD228E61EC2B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{28E5B824-70B8-405A-8AC0-FD228E61EC2B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{28E5B824-70B8-405A-8AC0-FD228E61EC2B}.Release|anycpu.Build.0 = Release|anycpu
+		{2CFDAC10-6B6E-4ECA-989A-3F9AF6636AA5}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2CFDAC10-6B6E-4ECA-989A-3F9AF6636AA5}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2CFDAC10-6B6E-4ECA-989A-3F9AF6636AA5}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2CFDAC10-6B6E-4ECA-989A-3F9AF6636AA5}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

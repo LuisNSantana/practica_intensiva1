@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/calculadora/bin/Debug/calculadora.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/calculadora/bin/Debug/calculadora.pdb
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/calculadora/obj/anycpu/Debug/calculadora.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/calculadora/obj/anycpu/Debug/calculadora.pdb

@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/grados/bin/Debug/grados.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/grados/bin/Debug/grados.pdb
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/grados/obj/anycpu/Debug/grados.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/grados/obj/anycpu/Debug/grados.pdb

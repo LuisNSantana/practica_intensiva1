@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/media/bin/Debug/media.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/media/bin/Debug/media.pdb
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/media/obj/anycpu/Debug/media.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/media/obj/anycpu/Debug/media.pdb

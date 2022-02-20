@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/alumno/bin/Debug/alumno.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/alumno/bin/Debug/alumno.pdb
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/alumno/obj/anycpu/Debug/alumno.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/alumno/obj/anycpu/Debug/alumno.pdb

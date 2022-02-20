@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/sueldo/bin/Debug/sueldo.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/sueldo/bin/Debug/sueldo.pdb
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/sueldo/obj/anycpu/Debug/sueldo.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/sueldo/obj/anycpu/Debug/sueldo.pdb

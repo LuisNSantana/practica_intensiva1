@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/tienda/bin/Debug/tienda.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/tienda/bin/Debug/tienda.pdb
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/tienda/obj/anycpu/Debug/tienda.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/tienda/obj/anycpu/Debug/tienda.pdb

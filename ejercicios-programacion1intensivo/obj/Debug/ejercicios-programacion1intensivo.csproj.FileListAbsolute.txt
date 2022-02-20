@@ -1,0 +1,5 @@
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/ejercicios-programacion1intensivo/obj/Debug/ejercicios-programacion1intensivo.csprojAssemblyReference.cache
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/ejercicios-programacion1intensivo/bin/Debug/ejercicios-programacion1intensivo.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/ejercicios-programacion1intensivo/bin/Debug/ejercicios-programacion1intensivo.pdb
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/ejercicios-programacion1intensivo/obj/Debug/ejercicios-programacion1intensivo.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/ejercicios-programacion1intensivo/obj/Debug/ejercicios-programacion1intensivo.pdb

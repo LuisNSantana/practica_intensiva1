@@ -1,0 +1,4 @@
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/minutos/bin/Debug/minutos.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/minutos/bin/Debug/minutos.pdb
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/minutos/obj/anycpu/Debug/minutos.exe
+/Users/luisnayib/Projects/ejercicios-programacion1intensivo/minutos/obj/anycpu/Debug/minutos.pdb
